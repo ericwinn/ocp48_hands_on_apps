@@ -42,8 +42,8 @@ ingress: { }
 
 resources:
   requests:
-    cpu: '100m'
-    memory: 256Mi
+    cpu: '4'
+    memory: 8Gi
 
 autoscaling: { }
 
